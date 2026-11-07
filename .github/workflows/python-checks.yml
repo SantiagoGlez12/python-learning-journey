@@ -31,3 +31,22 @@ jobs:
               assert isinstance(data.get("cells"), list), f"No cells: {path}"
               print(f"OK: {path} ({len(data['cells'])} cells)")
           PY
+      - name: Confirm portable notebooks have no hard-coded Mac home paths
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          portable = sorted(Path("data-analysis/portable").glob("*.ipynb"))
+          assert portable, "Missing portable notebook editions"
+          for path in portable:
+              notebook = json.loads(path.read_text(encoding="utf-8"))
+              code = "\n".join(
+                  "".join(cell.get("source", []))
+                  for cell in notebook["cells"]
+                  if cell.get("cell_type") == "code"
+              )
+              assert "/Users/santiago/" not in code, path
+              assert "~/Downloads" not in code, path
+              print("Portable code paths OK:", path)
+          PY
