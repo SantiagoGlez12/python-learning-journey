@@ -1,0 +1,22 @@
+﻿Variable 1,Variable 2,Correlacion,Valor absoluto
+Esperanza de vida,Esperanza mujeres,0.9922,0.9922
+Esperanza de vida,Esperanza hombres,0.9914,0.9914
+Esperanza mujeres,Esperanza hombres,0.9678,0.9678
+Mortalidad infantil,Esperanza mujeres,-0.9343,0.9343
+Mortalidad infantil,Esperanza de vida,-0.9154,0.9154
+Mortalidad infantil,Esperanza hombres,-0.8815,0.8815
+Esperanza mujeres,Fecundidad,-0.8636,0.8636
+Mortalidad infantil,Mortalidad materna,0.8492,0.8492
+Mortalidad infantil,Fecundidad,0.849,0.849
+Esperanza de vida,Fecundidad,-0.8386,0.8386
+Esperanza mujeres,Mortalidad materna,-0.8314,0.8314
+Esperanza de vida,Mortalidad materna,-0.8078,0.8078
+Esperanza hombres,Fecundidad,-0.7987,0.7987
+Esperanza hombres,Mortalidad materna,-0.7722,0.7722
+Mortalidad materna,Fecundidad,0.7716,0.7716
+Crecimiento poblacional,Fecundidad,0.7461,0.7461
+Mortalidad infantil,Crecimiento poblacional,0.6626,0.6626
+Esperanza mujeres,Crecimiento poblacional,-0.645,0.645
+Esperanza de vida,Crecimiento poblacional,-0.6218,0.6218
+Esperanza hombres,Crecimiento poblacional,-0.5936,0.5936
+Mortalidad materna,Crecimiento poblacional,0.5465,0.5465
