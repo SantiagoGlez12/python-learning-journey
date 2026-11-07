@@ -22,6 +22,10 @@ A collection of Python programming and data-analysis coursework, from basic func
 
 **Migration note:** Original notebook outputs were cleared to keep the Git history focused on source. Their source code is preserved, but not all notebooks have been retested in a clean environment. Some exercises contain local paths or downloads that must be adjusted before rerunning.
 
+## Portable coursework
+
+[Portable M24, M26, M27 and M29 notebooks](data-analysis/portable/README.md) now run with project-relative file paths. See the [data-source and verification register](data-analysis/source-data-status.md) for remaining dependencies; adaptation is not the same as successful execution.
+
 ## Featured analysis: video-game sales
 
 The [video-game EDA project](data-analysis/video-game-eda/README.md) includes a portable notebook, 11 saved figures and 11 derived tables from the coursework.
@@ -42,7 +46,8 @@ For the notebooks, install Jupyter and check each notebook for its dependencies.
 ## Remaining improvements
 
 - [ ] Verify external datasets and replace machine-specific paths with project-relative paths
-- [ ] Add clear dependency instructions per notebook
+- [x] Document dataset/dependency requirements for the known modules
+- [x] Add portable copies for M24, M26, M27 and M29
 - [ ] Migrate remaining earlier Python and visualization exercises
 - [x] Integrate 11 original charts and 11 supporting CSV tables for M33
 - [x] Add a project-relative M33 notebook copy
