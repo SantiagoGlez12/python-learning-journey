@@ -1,5 +1,7 @@
 # Python Learning Journey 🐍
 
+[![Python portfolio checks](https://github.com/SantiagoGlez12/python-learning-journey/actions/workflows/python-checks.yml/badge.svg)](https://github.com/SantiagoGlez12/python-learning-journey/actions/workflows/python-checks.yml)
+
 A collection of Python programming and data-analysis coursework, from basic functions to data manipulation, visualizations and exploratory analysis.
 
 ## Contents
@@ -19,6 +21,12 @@ A collection of Python programming and data-analysis coursework, from basic func
 | M33 | [Video-game sales EDA](data-analysis/video-game-eda/README.md) | Original + portable notebooks, 11 charts and 11 CSV summaries; execution validation pending |
 
 **Migration note:** Original notebook outputs were cleared to keep the Git history focused on source. Their source code is preserved, but not all notebooks have been retested in a clean environment. Some exercises contain local paths or downloads that must be adjusted before rerunning.
+
+## Featured analysis: video-game sales
+
+The [video-game EDA project](data-analysis/video-game-eda/README.md) includes a portable notebook, 11 saved figures and 11 derived tables from the coursework.
+
+![Video-game sales by year](data-analysis/video-game-eda/figures/01_ventas_por_anio.png)
 
 ## Quick start
 
