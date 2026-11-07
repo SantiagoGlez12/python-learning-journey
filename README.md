@@ -9,7 +9,7 @@ A collection of Python programming and data-analysis coursework, from basic func
 | Module | Exercise | Status |
 | --- | --- | --- |
 | Fundamentals | [Power-of-two function](fundamentals/power_of_two.py) and [tests](tests/test_power_of_two.py) | Self-contained |
-| M24 | [Population indicators](data-analysis/module-24-population-indicators.ipynb) | Original notebook; needs data-source validation |
+| M24 | [Population indicators](data-analysis/population-2020/README.md) | Locally executed; 3 figures and 2 CSV reports published; original and portable notebooks retained |
 | M25 | [lambda, map, reduce, filter](data-analysis/module-25-functional-tools.ipynb) | Original notebook |
 | M26 | [Pandas country data](data-analysis/module-26-pandas-country-data.ipynb) | Original notebook; external CSV dependency |
 | M27 | [Debugging and error handling](data-analysis/module-27-coursework.ipynb) | Original notebook; local paths may apply |
@@ -25,6 +25,12 @@ A collection of Python programming and data-analysis coursework, from basic func
 ## Portable coursework
 
 [Portable M24, M26, M27 and M29 notebooks](data-analysis/portable/README.md) now run with project-relative file paths. See the [data-source and verification register](data-analysis/source-data-status.md) for remaining dependencies; adaptation is not the same as successful execution.
+
+## Featured analysis: UN population indicators (2020)
+
+The [M24 report](data-analysis/population-2020/README.md) includes original graphs, verified correlation tables and reproduction instructions.
+
+![Infant mortality vs. life expectancy](data-analysis/population-2020/figures/01_dispersion_mortalidad_esperanza.png)
 
 ## Featured analysis: video-game sales
 
