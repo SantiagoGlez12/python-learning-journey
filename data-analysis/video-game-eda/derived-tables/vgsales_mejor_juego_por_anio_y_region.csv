@@ -1,0 +1,196 @@
+Year,Juego,Ventas_millones,Region
+1980,Asteroids,0.26,EU_Sales
+1980,Asteroids,4.31,Global_Sales
+1980,Asteroids,0.0,JP_Sales
+1980,Asteroids,4.0,NA_Sales
+1980,Asteroids,0.05,Other_Sales
+1981,Pitfall!,0.24,EU_Sales
+1981,Pitfall!,4.5,Global_Sales
+1981,Adventures of Tron,0.0,JP_Sales
+1981,Pitfall!,4.21,NA_Sales
+1981,Pitfall!,0.05,Other_Sales
+1982,Pac-Man,0.45,EU_Sales
+1982,Pac-Man,7.81,Global_Sales
+1982,Action Force,0.0,JP_Sales
+1982,Pac-Man,7.28,NA_Sales
+1982,Pac-Man,0.08,Other_Sales
+1983,Mario Bros.,0.12,EU_Sales
+1983,Baseball,3.2,Global_Sales
+1983,Baseball,2.35,JP_Sales
+1983,Pitfall II: Lost Caverns,1.22,NA_Sales
+1983,Baseball,0.02,Other_Sales
+1984,Duck Hunt,0.63,EU_Sales
+1984,Duck Hunt,28.31,Global_Sales
+1984,Golf,2.46,JP_Sales
+1984,Duck Hunt,26.93,NA_Sales
+1984,Duck Hunt,0.47,Other_Sales
+1985,Super Mario Bros.,3.58,EU_Sales
+1985,Super Mario Bros.,40.24,Global_Sales
+1985,Super Mario Bros.,6.81,JP_Sales
+1985,Super Mario Bros.,29.08,NA_Sales
+1985,Super Mario Bros.,0.77,Other_Sales
+1986,The Legend of Zelda,0.93,EU_Sales
+1986,The Legend of Zelda,6.51,Global_Sales
+1986,Super Mario Bros.: The Lost Levels,2.65,JP_Sales
+1986,The Legend of Zelda,3.74,NA_Sales
+1986,Dragon Warrior,1.51,Other_Sales
+1987,Zelda II: The Adventure of Link,0.5,EU_Sales
+1987,Zelda II: The Adventure of Link,4.38,Global_Sales
+1987,Dragon Warrior II,2.41,JP_Sales
+1987,Zelda II: The Adventure of Link,2.19,NA_Sales
+1987,Zelda II: The Adventure of Link,0.08,Other_Sales
+1988,Super Mario Bros. 3,3.44,EU_Sales
+1988,Super Mario Bros. 3,17.28,Global_Sales
+1988,Super Mario Bros. 3,3.84,JP_Sales
+1988,Super Mario Bros. 3,9.54,NA_Sales
+1988,Super Mario Bros. 3,0.46,Other_Sales
+1989,Super Mario Land,2.71,EU_Sales
+1989,Tetris,30.26,Global_Sales
+1989,Tetris,4.22,JP_Sales
+1989,Tetris,23.2,NA_Sales
+1989,Tetris,0.58,Other_Sales
+1990,Super Mario World,3.75,EU_Sales
+1990,Super Mario World,20.61,Global_Sales
+1990,Super Mario World,3.54,JP_Sales
+1990,Super Mario World,12.78,NA_Sales
+1990,Super Mario World,0.55,Other_Sales
+1991,Sonic the Hedgehog,0.91,EU_Sales
+1991,The Legend of Zelda: A Link to the Past,4.61,Global_Sales
+1991,Yoshi,1.6400000000000001,JP_Sales
+1991,Sonic the Hedgehog,3.03,NA_Sales
+1991,Sonic the Hedgehog,0.13,Other_Sales
+1992,Super Mario Land 2: 6 Golden Coins,2.04,EU_Sales
+1992,Super Mario Land 2: 6 Golden Coins,11.18,Global_Sales
+1992,Super Mario Kart,3.81,JP_Sales
+1992,Super Mario Land 2: 6 Golden Coins,6.16,NA_Sales
+1992,Super Mario Land 2: 6 Golden Coins,0.29,Other_Sales
+1993,Super Mario All-Stars,2.15,EU_Sales
+1993,Super Mario All-Stars,10.55,Global_Sales
+1993,Super Mario All-Stars,2.12,JP_Sales
+1993,Super Mario All-Stars,5.99,NA_Sales
+1993,Super Mario All-Stars,0.29,Other_Sales
+1994,Myst,2.79,EU_Sales
+1994,Donkey Kong Country,9.3,Global_Sales
+1994,Donkey Kong Country,3.0,JP_Sales
+1994,Donkey Kong Country,4.36,NA_Sales
+1994,Donkey Kong,0.34,Other_Sales
+1995,Warcraft II: Tides of Darkness,2.27,EU_Sales
+1995,Donkey Kong Country 2: Diddy's Kong Quest,5.15,Global_Sales
+1995,Dragon Quest VI: Maboroshi no Daichi,3.19,JP_Sales
+1995,Killer Instinct,2.26,NA_Sales
+1995,Warcraft II: Tides of Darkness,0.23,Other_Sales
+1996,Pokemon Red/Pokemon Blue,8.89,EU_Sales
+1996,Pokemon Red/Pokemon Blue,31.37,Global_Sales
+1996,Pokemon Red/Pokemon Blue,10.22,JP_Sales
+1996,Pokemon Red/Pokemon Blue,11.27,NA_Sales
+1996,Pokemon Red/Pokemon Blue,1.0,Other_Sales
+1997,Gran Turismo,3.87,EU_Sales
+1997,Gran Turismo,10.95,Global_Sales
+1997,Final Fantasy VII,3.28,JP_Sales
+1997,GoldenEye 007,5.8,NA_Sales
+1997,Final Fantasy VII,0.96,Other_Sales
+1998,Pokémon Yellow: Special Pikachu Edition,5.04,EU_Sales
+1998,Pokémon Yellow: Special Pikachu Edition,14.64,Global_Sales
+1998,Pokémon Yellow: Special Pikachu Edition,3.12,JP_Sales
+1998,Pokémon Yellow: Special Pikachu Edition,5.89,NA_Sales
+1998,Pokémon Yellow: Special Pikachu Edition,0.59,Other_Sales
+1999,Pokemon Gold/Pokemon Silver,6.18,EU_Sales
+1999,Pokemon Gold/Pokemon Silver,23.1,Global_Sales
+1999,Pokemon Gold/Pokemon Silver,7.2,JP_Sales
+1999,Pokemon Gold/Pokemon Silver,9.0,NA_Sales
+1999,Pokemon Gold/Pokemon Silver,0.71,Other_Sales
+2000,Driver 2,2.1,EU_Sales
+2000,Pokémon Crystal Version,6.39,Global_Sales
+2000,Dragon Quest VII: Warriors of Eden,4.1,JP_Sales
+2000,Madden NFL 2001,3.37,NA_Sales
+2000,Pokémon Crystal Version,0.99,Other_Sales
+2001,Gran Turismo 3: A-Spec,5.09,EU_Sales
+2001,Gran Turismo 3: A-Spec,14.98,Global_Sales
+2001,Final Fantasy X,2.73,JP_Sales
+2001,Grand Theft Auto III,6.99,NA_Sales
+2001,Grand Theft Auto III,1.3,Other_Sales
+2002,Grand Theft Auto: Vice City,5.49,EU_Sales
+2002,Grand Theft Auto: Vice City,16.15,Global_Sales
+2002,Pokemon Ruby/Pokemon Sapphire,5.38,JP_Sales
+2002,Grand Theft Auto: Vice City,8.41,NA_Sales
+2002,Grand Theft Auto: Vice City,1.78,Other_Sales
+2003,Need for Speed Underground,3.98,EU_Sales
+2003,Need for Speed Underground,10.46,Global_Sales
+2003,Final Fantasy X-2,2.11,JP_Sales
+2003,Need for Speed Underground,5.26,NA_Sales
+2003,Need for Speed Underground,1.1400000000000001,Other_Sales
+2004,World of Warcraft,6.21,EU_Sales
+2004,Grand Theft Auto: San Andreas,20.81,Global_Sales
+2004,Dragon Quest VIII: Journey of the Cursed King,3.61,JP_Sales
+2004,Grand Theft Auto: San Andreas,9.43,NA_Sales
+2004,Grand Theft Auto: San Andreas,10.57,Other_Sales
+2005,Nintendogs,11.0,EU_Sales
+2005,Nintendogs,24.76,Global_Sales
+2005,Animal Crossing: Wild World,5.33,JP_Sales
+2005,Mario Kart DS,9.81,NA_Sales
+2005,Nintendogs,2.75,Other_Sales
+2006,Wii Sports,29.02,EU_Sales
+2006,Wii Sports,82.74,Global_Sales
+2006,New Super Mario Bros.,6.5,JP_Sales
+2006,Wii Sports,41.49,NA_Sales
+2006,Wii Sports,8.46,Other_Sales
+2007,Wii Fit,8.03,EU_Sales
+2007,Wii Fit,22.72,Global_Sales
+2007,Wii Fit,3.6,JP_Sales
+2007,Guitar Hero III: Legends of Rock,11.15,NA_Sales
+2007,FIFA Soccer 08,3.53,Other_Sales
+2008,Mario Kart Wii,12.88,EU_Sales
+2008,Mario Kart Wii,35.82,Global_Sales
+2008,Monster Hunter Freedom Unite,4.13,JP_Sales
+2008,Mario Kart Wii,15.85,NA_Sales
+2008,Mario Kart Wii,3.31,Other_Sales
+2009,Wii Sports Resort,11.01,EU_Sales
+2009,Wii Sports Resort,33.0,Global_Sales
+2009,New Super Mario Bros. Wii,4.7,JP_Sales
+2009,Wii Sports Resort,15.75,NA_Sales
+2009,Call of Duty: Modern Warfare 2,3.01,Other_Sales
+2010,Call of Duty: Black Ops,8.690000000000001,EU_Sales
+2010,Call of Duty: Black Ops,29.400000000000002,Global_Sales
+2010,Pokemon Black/Pokemon White,5.65,JP_Sales
+2010,Call of Duty: Black Ops,17.01,NA_Sales
+2010,Call of Duty: Black Ops,3.12,Other_Sales
+2011,Call of Duty: Modern Warfare 3,11.290000000000001,EU_Sales
+2011,Call of Duty: Modern Warfare 3,30.830000000000002,Global_Sales
+2011,Mario Kart 7,2.67,JP_Sales
+2011,Call of Duty: Modern Warfare 3,15.58,NA_Sales
+2011,Call of Duty: Modern Warfare 3,3.35,Other_Sales
+2012,Call of Duty: Black Ops II,11.049999999999999,EU_Sales
+2012,Call of Duty: Black Ops II,29.72,Global_Sales
+2012,Animal Crossing: New Leaf,4.36,JP_Sales
+2012,Call of Duty: Black Ops II,14.08,NA_Sales
+2012,Call of Duty: Black Ops II,3.88,Other_Sales
+2013,Grand Theft Auto V,14.579999999999998,EU_Sales
+2013,Grand Theft Auto V,37.78,Global_Sales
+2013,Pokemon X/Pokemon Y,4.34,JP_Sales
+2013,Grand Theft Auto V,16.64,NA_Sales
+2013,Grand Theft Auto V,5.52,Other_Sales
+2014,FIFA 15,12.4,EU_Sales
+2014,Call of Duty: Advanced Warfare,21.9,Global_Sales
+2014,Super Smash Bros. for Wii U and 3DS,3.2199999999999998,JP_Sales
+2014,Call of Duty: Advanced Warfare,10.44,NA_Sales
+2014,FIFA 15,3.29,Other_Sales
+2015,FIFA 16,11.29,EU_Sales
+2015,Call of Duty: Black Ops 3,25.32,Global_Sales
+2015,Monster Hunter X,2.78,JP_Sales
+2015,Call of Duty: Black Ops 3,11.889999999999999,NA_Sales
+2015,Call of Duty: Black Ops 3,3.42,Other_Sales
+2016,FIFA 17,5.48,EU_Sales
+2016,FIFA 17,6.909999999999999,Global_Sales
+2016,Yokai Watch 3,1.27,JP_Sales
+2016,Tom Clancy's The Division,2.68,NA_Sales
+2016,FIFA 17,0.85,Other_Sales
+2017,Brothers Conflict: Precious Baby,0.0,EU_Sales
+2017,Phantasy Star Online 2 Episode 4: Deluxe Package,0.04,Global_Sales
+2017,Phantasy Star Online 2 Episode 4: Deluxe Package,0.04,JP_Sales
+2017,Brothers Conflict: Precious Baby,0.0,NA_Sales
+2017,Brothers Conflict: Precious Baby,0.0,Other_Sales
+2020,Imagine: Makeup Artist,0.0,EU_Sales
+2020,Imagine: Makeup Artist,0.29,Global_Sales
+2020,Imagine: Makeup Artist,0.0,JP_Sales
+2020,Imagine: Makeup Artist,0.27,NA_Sales
+2020,Imagine: Makeup Artist,0.02,Other_Sales
