@@ -16,7 +16,7 @@ A collection of Python programming and data-analysis coursework, from basic func
 | M30 | [Data manipulation with Pandas](data-analysis/module-30-coursework.ipynb) | Original notebook; input dataset required |
 | M31 | [DataFrames, groupby and statistics](data-analysis/module-31-coursework.ipynb) | Original notebook; input dataset required |
 | M32 | [FIFA dashboard wireframe and charts](data-analysis/module-32-coursework.ipynb) | Original notebook; input dataset required |
-| M33 | [Video-game sales EDA](data-analysis/module-33-video-game-eda.ipynb) | Original notebook; dataset and visualizations pending integration |
+| M33 | [Video-game sales EDA](data-analysis/video-game-eda/README.md) | Original + portable notebooks, 11 charts and 11 CSV summaries; execution validation pending |
 
 **Migration note:** Original notebook outputs were cleared to keep the Git history focused on source. Their source code is preserved, but not all notebooks have been retested in a clean environment. Some exercises contain local paths or downloads that must be adjusted before rerunning.
 
@@ -36,7 +36,9 @@ For the notebooks, install Jupyter and check each notebook for its dependencies.
 - [ ] Verify external datasets and replace machine-specific paths with project-relative paths
 - [ ] Add clear dependency instructions per notebook
 - [ ] Migrate remaining earlier Python and visualization exercises
-- [ ] Integrate the generated charts and supporting data for the M33 video-game analysis
+- [x] Integrate 11 original charts and 11 supporting CSV tables for M33
+- [x] Add a project-relative M33 notebook copy
+- [ ] Validate the M33 notebook end to end with the source dataset
 - [ ] Execute a reproducibility pass and document verified results
 
 ## Related project
