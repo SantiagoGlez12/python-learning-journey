@@ -38,6 +38,10 @@ The [video-game EDA project](data-analysis/video-game-eda/README.md) includes a 
 
 ![Video-game sales by year](data-analysis/video-game-eda/figures/01_ventas_por_anio.png)
 
+## Git/GitHub course practice
+
+A beginner [power-of-two notebook and guided VS Code workflow](github-practice/README.md) is prepared for the pending academic submission. The required local edit, Git commands and screenshots must be completed by the student.
+
 ## Quick start
 
 Use Python 3.10+:
@@ -58,7 +62,9 @@ For the notebooks, install Jupyter and check each notebook for its dependencies.
 - [x] Integrate 11 original charts and 11 supporting CSV tables for M33
 - [x] Add a project-relative M33 notebook copy
 - [ ] Validate the M33 notebook end to end with the source dataset
-- [ ] Execute a reproducibility pass and document verified results
+- [x] Execute the M24 source analysis locally, with matching saved CSV results
+- [ ] Validate the remaining notebooks end to end where input files are available
+- [ ] Complete the Git/GitHub coursework evidence with an actual local notebook edit and screenshots
 
 ## Related project
 
