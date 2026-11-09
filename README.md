@@ -20,6 +20,7 @@ A collection of Python programming and data-analysis coursework, from basic func
 | M32 | [FIFA dashboard wireframe and charts](data-analysis/module-32-coursework.ipynb) | Original notebook; input dataset required |
 | M33 | [Video-game sales EDA](data-analysis/video-game-eda/README.md) | Original + portable notebooks, 11 charts and 11 CSV summaries; local analysis verified |
 | M35 | [NumPy supermarket sales analysis](data-analysis/module-35-numpy-supermarket/README.md) | Notebook and CSV published; descriptive statistics, rankings and correlations |
+| M36 | [Monte Carlo budget simulation](data-analysis/module-36-monte-carlo-budget/README.md) | Deterministic budget, 5,000 simulations, normal vs. triangular distributions and sensitivity analysis |
 
 **Migration note:** Original notebook outputs were cleared to keep the Git history focused on source. Their source code is preserved, but not all notebooks have been retested in a clean environment. Some exercises contain local paths or downloads that must be adjusted before rerunning.
 
