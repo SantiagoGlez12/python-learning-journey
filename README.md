@@ -19,6 +19,7 @@ A collection of Python programming and data-analysis coursework, from basic func
 | M31 | [DataFrames, groupby and statistics](data-analysis/module-31-coursework.ipynb) | Original notebook; input dataset required |
 | M32 | [FIFA dashboard wireframe and charts](data-analysis/module-32-coursework.ipynb) | Original notebook; input dataset required |
 | M33 | [Video-game sales EDA](data-analysis/video-game-eda/README.md) | Original + portable notebooks, 11 charts and 11 CSV summaries; local analysis verified |
+| M35 | [NumPy supermarket sales analysis](data-analysis/module-35-numpy-supermarket/README.md) | Notebook and CSV published; descriptive statistics, rankings and correlations |
 
 **Migration note:** Original notebook outputs were cleared to keep the Git history focused on source. Their source code is preserved, but not all notebooks have been retested in a clean environment. Some exercises contain local paths or downloads that must be adjusted before rerunning.
 
@@ -40,7 +41,7 @@ The [video-game EDA project](data-analysis/video-game-eda/README.md) includes a 
 
 ## Git/GitHub course practice
 
-A beginner [power-of-two notebook and guided VS Code workflow](github-practice/README.md) is prepared for the pending academic submission. The required local edit, Git commands and screenshots must be completed by the student.
+The [power-of-two notebook and VS Code workflow](github-practice/README.md) document the classroom Git practice. The student completed a local edit, commit and push; the notebook's commit history preserves the version change.
 
 ## Quick start
 
@@ -66,7 +67,7 @@ For the notebooks, install Jupyter and check each notebook for its dependencies.
 - [ ] Validate M33 execution in a clean CI environment
 - [x] Execute the M24 source analysis locally, with matching saved CSV results
 - [ ] Validate the remaining notebooks end to end where input files are available
-- [ ] Complete the Git/GitHub coursework evidence with an actual local notebook edit and screenshots
+- [x] Complete local Git/GitHub notebook edit, commit and push; screenshots captured for the coursework documents
 
 ## Related project
 
