@@ -42,3 +42,9 @@ If your local branch or repository rules differ, use the branch shown by `git br
 ## Context
 
 The mathematical task intentionally uses introductory control flow. It reuses the same learning concept as [the standalone Python function](../fundamentals/power_of_two.py) and adds a cell designed for a real follow-up edit. The notebook is a learning artifact, not a production application.
+
+## SourceTree Practice
+
+This repository was also used to practice Git version control
+with SourceTree, including reviewing file changes, creating
+commits, and synchronizing with GitHub.
